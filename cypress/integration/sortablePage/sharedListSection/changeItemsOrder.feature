@@ -5,5 +5,7 @@ Scenario: Verify that user can change list items order
   When  The user drags item number 3 from left list
   When  The user drops item number 3 to the right list
   Then  item number 3 from left list should be shown at the right list
+
+
     
   
